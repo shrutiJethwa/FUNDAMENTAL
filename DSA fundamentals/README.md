@@ -13,3 +13,4 @@ Topic Covered till now.
     ◾Divide and conquern
 ◾Divide and conquern
     ◾Akra-Bazzi theorem
+

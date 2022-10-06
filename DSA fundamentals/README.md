@@ -15,9 +15,12 @@ Topic Covered till now.
 ◾Little omega
 
 ◾Time complexity for recrence relation
+    
     ◾Linear
+    
     ◾Divide and conquern
 		
 ◾Divide and conquern
+    
     ◾Akra-Bazzi theorem
 
